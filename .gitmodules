@@ -1,3 +1,9 @@
 [submodule "Codxo-Portofolio"]
 	path = Codxo-Portofolio
 	url = https://github.com/surepos/Codxo-Portofolio.git
+[submodule "Codxo-ToDoList"]
+	path = Codxo-ToDoList
+	url = https://github.com/surepos/Codxo-ToDoList.git
+[submodule "Codxo-Weather"]
+	path = Codxo-Weather
+	url = https://github.com/surepos/Codxo-Weather.git
